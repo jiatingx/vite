@@ -1,5 +1,6 @@
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
+// import { useStore } from '@/stores'
 import App from './App.vue'
 
 import ElementPlus from 'element-plus'
